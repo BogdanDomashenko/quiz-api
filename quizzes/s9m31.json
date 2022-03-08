@@ -1,0 +1,42 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "djowqdjwq",
+      "img": "https://www.kraftwerk.at/app/uploads/fly-images/962/reference-img-worlds-of-adventure-park-4-1920x9999.jpg",
+      "answers": [
+        { "id": 1, "text": "swqkwjd", "image": null, "truthful": true },
+        { "id": 2, "text": "khh", "image": null, "truthful": true },
+        { "id": 3, "text": "khh", "image": null, "truthful": false }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "76v57",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/15/a4/9b/77/legacy-hotel-at-img-academy.jpg",
+      "answers": [
+        { "id": 1, "text": "swqkwjd", "image": null, "truthful": true },
+        { "id": 2, "text": "khh", "image": null, "truthful": true },
+        { "id": 3, "text": "khh", "image": null, "truthful": false }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "v7657",
+      "answers": [
+        { "id": 1, "text": "swqkwjd", "image": null, "truthful": true },
+        { "id": 2, "text": "khh", "image": null, "truthful": false },
+        { "id": 3, "text": "khh", "image": null, "truthful": false }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "7n89n9n9",
+      "answers": [
+        { "id": 1, "text": "swqkwjd", "image": null, "truthful": true },
+        { "id": 2, "text": "khh", "image": null, "truthful": true },
+        { "id": 3, "text": "khh", "image": null, "truthful": false }
+      ]
+    }
+  ]
+}
